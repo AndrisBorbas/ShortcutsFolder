@@ -6,4 +6,4 @@ They should be 48x48 but others could also work if you fiddle around with some s
 
 [https://imgur.com/6mJGJx0](https://imgur.com/6mJGJx0)
 
-![GIF of the skin](https://i.imgur.com/6mJGJx0.gif)
+![GIF of the skin](https://media.giphy.com/media/nEm1EJuhjaRJl5vXna/giphy.gif)
